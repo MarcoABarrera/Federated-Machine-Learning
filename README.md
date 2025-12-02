@@ -21,4 +21,6 @@ Or feel free to use any of the current python codes to run specific scenarios (d
 ```bash
 python results_clients_withoutSEEDS.py.
 ```
-Its important that you are indise the correct repository to run the python codes!
+**Note:** Its important that you are indise the correct repository to run the python codes!
+
+Once you run any of the files that start with "results......py", the simulated data will be saved inside the "results" folder. This data can be visualized by running the codes inside the python plotting folder. The plots will be later saved in "plots" folder.
